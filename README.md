@@ -3,7 +3,7 @@ Tailweb Teacher Panel
 
 **Prerequisites**
 
-XAMPP (version 8 or above)
+XAMPP (version 8 or above)<br>
 PHP (version 8 or above)
 MySQL (included in XAMPP)
 Browser (Chrome, Firefox, etc.)
